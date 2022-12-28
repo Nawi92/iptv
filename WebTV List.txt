@@ -1,0 +1,563 @@
+#NAME IPTV
+Channel name:SUBSCRIBE TiviMe YOUTUBE
+URL:https://dl.dropboxusercontent.com/s/gkied0nmj8aa2gm/InShot_20221108_103948919.mp4?dl=0
+Channel name:SUBSCRIBE TiviMe YOUTUBE
+URL:https://dl.dropboxusercontent.com/s/gkied0nmj8aa2gm/InShot_20221108_103948919.mp4?dl=0
+Channel name:Update Playlist Terbaru
+URL:https://dl.dropboxusercontent.com/s/gkied0nmj8aa2gm/InShot_20221108_103948919.mp4?dl=0
+Channel name:RCTI
+URL:https://av-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+Channel name:GTV
+URL:https://av-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+Channel name:MNC TV
+URL:https://av-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+Channel name:iNews
+URL:https://av-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+Channel name:Trans TV
+URL:https://av-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
+Channel name:Trans7
+URL:https://av-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
+Channel name:TVONE
+URL:https://av-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
+Channel name:ANTV
+URL:https://av-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+Channel name:NET
+URL:https://av-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+Channel name:Metro TV
+URL:https://av-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
+Channel name:RTV
+URL:https://av-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+Channel name:Kompas TV
+URL:https://av-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+Channel name:TVRI Nasional
+URL:https://av-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
+Channel name:BTV
+URL:https://av-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
+Channel name:MNC News
+URL:https://av-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
+Channel name:TRANS7
+URL:https://video.detik.com/trans7/smil:trans7.smil/chunklist_shareExt_b744100_sleng.m3u8
+Channel name:TRANS TV
+URL:https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
+Channel name:Indosiar
+URL:http://rr2.dens.tv/s/s04/index.m3u8
+Channel name:NET
+URL:http://rr2.dens.tv/s/s08/index.m3u8
+Channel name:SCTV
+URL:http://rr2.dens.tv/s/s03/index.m3u8
+Channel name:tvone
+URL:http://rr2.dens.tv/s/s105/index.m3u8
+Channel name:TVRI Nasional
+URL:http://rr2.dens.tv/s/s11/index.m3u8
+Channel name:Kompas TV
+URL:http://rr2.dens.tv/s/s104/index.m3u8
+Channel name:Metro TV
+URL:http://rr.dens.tv/h/h12/index.m3u8
+Channel name:ANTV
+URL:http://rr2.dens.tv/s/s07/index.m3u8
+Channel name:Moji
+URL:http://210.210.155.35/qwr9ew/s/s41/01.m3u8
+Channel name:CNN INDONESIA
+URL:http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+Channel name:CNBC INDONESIA
+URL:https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
+Channel name:Magna Channel
+URL:https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
+Channel name:Garuda TV
+URL:https://ms.digdaya.tv/live/digdayatv/chunklist_w1940629469.m3u8
+Channel name:Nusantara TV
+URL:https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
+Channel name:ElShinta TV
+URL:http://rr2.dens.tv/s/s10/index.m3u8
+Channel name:Update Playlist Terbaru
+URL:https://dl.dropboxusercontent.com/s/gkied0nmj8aa2gm/InShot_20221108_103948919.mp4?dl=0
+Channel name:AXN
+URL:https://av-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+Channel name:Celestial Classic Movies
+URL:https://av-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+Channel name:Celestial Movies
+URL:https://av-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
+Channel name:CinemaWorld
+URL:https://av-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+Channel name:Cinemax
+URL:https://av-live-cdn.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
+Channel name:FMN
+URL:https://av-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
+Channel name:HBO
+URL:https://av-live-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
+Channel name:HBO Family
+URL:https://av-live-cdn.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
+Channel name:HBO Hits
+URL:https://av-live-cdn.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
+Channel name:HBO Signature
+URL:https://av-live-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
+Channel name:HITS Movies
+URL:https://av-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+Channel name:Warner TV
+URL:https://av-live-cdn.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
+Channel name:Lifetime
+URL:https://av-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
+Channel name:Galaxy
+URL:https://av-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+Channel name:Galaxy Premium
+URL:https://av-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+Channel name:HITS
+URL:https://av-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
+Channel name:Thrill
+URL:https://av-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+Channel name:TVN
+URL:https://av-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
+Channel name:TVN Movies
+URL:https://av-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+Channel name:Zee Bioskop
+URL:https://av-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+Channel name:ONE
+URL:https://av-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+Channel name:KIX
+URL:https://av-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
+Channel name:Indonesia Movie Channels
+URL:https://av-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+Channel name:Celestial Movies
+URL:http://rr1.dens.tv/h/h14/index.m3u8
+Channel name:CinemaWorld
+URL:http://rr1.dens.tv/h/h04/index.m3u8
+Channel name:Celestial Classic Movies
+URL:http://rr2.dens.tv/s/s31/index.m3u8
+Channel name:Hits
+URL:http://rr1.dens.tv/h/h37/index.m3u8
+Channel name:Hits Movies
+URL:http://rr1.dens.tv/h/h38/index.m3u8
+Channel name:KIX
+URL:http://rr1.dens.tv/h/h07/index.m3u8
+Channel name:K+
+URL:http://rr.dens.tv/h/h08/index.m3u8
+Channel name:My Cinema
+URL:http://rr.dens.tv/h/h192/index.m3u8
+Channel name:My Cinema Asia
+URL:http://rr.dens.tv/h/h193/index.m3u8
+Channel name:My Cinema Europe
+URL:http://rr.dens.tv/h/h18/index.m3u8
+Channel name:My Family Channel
+URL:http://rr.dens.tv/h/h194/index.m3u8
+Channel name:Rock Entertainment
+URL:http://rr1.dens.tv/h/h16/index.m3u8
+Channel name:Rock Extreme
+URL:http://rr1.dens.tv/h/h15/index.m3u8
+Channel name:Thrill
+URL:http://rr2.dens.tv/s/s34/index.m3u8
+Channel name:TVN Movies
+URL:http://rr1.dens.tv/h/h21/index.m3u8
+Channel name:TVN
+URL:http://rr1.dens.tv/h/h20/index.m3u8
+Channel name:Zee Bioskop
+URL:http://rr2.dens.tv/s/s32/index.m3u8
+Channel name:Update Playlist Terbaru
+URL:https://dl.dropboxusercontent.com/s/gkied0nmj8aa2gm/InShot_20221108_103948919.mp4?dl=0
+Channel name:Baby TV Asia
+URL:https://av-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
+Channel name:Besmart
+URL:https://av-live-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
+Channel name:Boomerang
+URL:https://av-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
+Channel name:Cartoon Network
+URL:https://av-live-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
+Channel name:CBeebies
+URL:https://av-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
+Channel name:Kids TV
+URL:https://av-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
+Channel name:Miao Mi
+URL:https://av-live-cdn.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
+Channel name:Nick Jr
+URL:https://av-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
+Channel name:Nickelodeon
+URL:https://av-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
+Channel name:My Kidz
+URL:http://rr.dens.tv/h/h191/index.m3u8
+Channel name:Biznet Kids
+URL:https://bit.ly/3MIB23q
+Channel name:LEGO CHANNEL
+URL:https://legochannel-roku.amagi.tv/playlist.m3u8
+Channel name:LEGO TOONS
+URL:https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
+Channel name:SuperToons TV
+URL:https://tinyurl.com/SuperToons
+Channel name:HappyKids
+URL:https://happykids-roku.amagi.tv/playlist404pl.m3u8
+Channel name:HappyKids Junior
+URL:https://happykidsjunior-vizio.amagi.tv/playlist480p.m3u8
+Channel name:KidsFlix
+URL:https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
+Channel name:Toon Googles
+URL:https://tinyurl.com/TiviMe-ToonGoogles
+Channel name:Moonbug Kids
+URL:https://moonbug-rokuus.amagi.tv/playlist.m3u8
+Channel name:Kids Pang TV
+URL:https://494e639cacb24ad484819d7154a3f100.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_KidsPangTV/playlist.m3u8?ads.wurl_channel=841&ads.wurl_name=KidsPangTV&ads.coppa=1&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=JoNYGj1bF5swTq531QQg&ads.plex_id=60d4eddfb2fdec002c141139&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+Channel name:TAYO TV
+URL:https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00640-lydnetwork-tayo-xiaomi/playlist.m3u8
+Channel name:Zoo Moo
+URL:https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+Channel name:Rakuten TV Family
+URL:https://e7934a8802cc472f957e8cb4adb933e4.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_RakutenFamily/playlist.m3u8
+Channel name:Update Playlist Terbaru
+URL:https://dl.dropboxusercontent.com/s/gkied0nmj8aa2gm/InShot_20221108_103948919.mp4?dl=0
+Channel name:Nick Pluto TV
+URL:https://bit.ly/3Bwp9eR
+Channel name:Nick Jr. Pluto TV
+URL:https://bit.ly/3QwSRoa
+Channel name:Baby Shark TV
+URL:https://bit.ly/3TYQJbS
+Channel name:Pluto TV Kids
+URL:https://bit.ly/3RUJhML
+Channel name:Kids Movie Club
+URL:https://bit.ly/3xbVZPs
+Channel name:Kartoon Channel
+URL:https://bit.ly/3B8sJdL
+Channel name:LEGO Kids Channel
+URL:https://bit.ly/3cZ7Cm7
+Channel name:Forever Kids
+URL:https://bit.ly/3TXJz7C
+Channel name:Totally Turtles
+URL:https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
+Channel name:Garfield & Friends
+URL:https://bit.ly/3xbYSja
+Channel name:Moonbug Kids
+URL:https://bit.ly/3TXzQOD
+Channel name:Update Playlist Terbaru
+URL:https://dl.dropboxusercontent.com/s/gkied0nmj8aa2gm/InShot_20221108_103948919.mp4?dl=0
+Channel name:Animax
+URL:https://av-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+Channel name:Aniplus
+URL:http://rr1.dens.tv/h/h02/01.m3u8?chname=ANIPLUS_HD
+Channel name:RetroCrush 1
+URL:https://digitalmediarights-retrocrush-1-us.lg.wurl.tv/playlist.m3u8
+Channel name:RetroCrush 2
+URL:https://dai.google.com/linear/hls/event/7LAMGFcmQN6iFJjNoHWXrg/master.m3u8
+Channel name:Pluto TV Anime All Day
+URL:https://bit.ly/39KU8Zz
+Channel name:Pluto TV Anime All Ages
+URL:https://bit.ly/3HVVQ72
+Channel name:CONtv Anime
+URL:https://contvanime-littlstar.cinedigm.com/ingest/master.m3u8
+Channel name:Naruto
+URL:https://bit.ly/3RvST11
+Channel name:One Piece
+URL:https://bit.ly/3RRQ2z7
+Channel name:TokuSHOUTsu
+URL:https://bit.ly/3L4aMRP
+Channel name:Update Playlist Terbaru
+URL:https://dl.dropboxusercontent.com/s/gkied0nmj8aa2gm/InShot_20221108_103948919.mp4?dl=0
+Channel name:beIN Sports 1 Indonesia
+URL:https://av-live-cdn.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
+Channel name:beIN Sports 3 Indonesia
+URL:https://av-live-cdn.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
+Channel name:SPOTV
+URL:https://av-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+Channel name:SPOTV 2
+URL:https://av-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+Channel name:MNC Sports 1
+URL:https://av-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+Channel name:MNC Sports 2
+URL:https://av-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+Channel name:MNC Sports 3
+URL:https://av-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+Channel name:Soccer Channel
+URL:https://av-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+Channel name:Fight Sports
+URL:https://av-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
+Channel name:TVRI Sport
+URL:http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+Channel name:SPOTV
+URL:https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8?hdnea=st=1647684965~exp=9007200902425956~acl=/99545824f
+Channel name:SPOTV 2
+URL:https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1655715604~exp=9007200910456595~acl=/48eee16919834d3b97df1082a649bcfa/*/profile_0/chunklist.m3u8*~hmac=3d68badae101f8edfa354550208282166f263e165eb7df0cd9dac20a4d22759a
+Channel name:Fight Sports
+URL:http://rr1.dens.tv/h/h05/index.m3u8
+Channel name:Tennis Channel
+URL:https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
+Channel name:Eurosport
+URL:https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+Channel name:Update Playlist Terbaru
+URL:https://dl.dropboxusercontent.com/s/gkied0nmj8aa2gm/InShot_20221108_103948919.mp4?dl=0
+Channel name:Bein Sports Xtra Pluto TV
+URL:https://bit.ly/3t7HM45
+Channel name:Bellator MMA
+URL:https://bit.ly/3O4uBZV
+Channel name:Glory Kickboxing
+URL:https://bit.ly/3GCBoqY
+Channel name:Fight Network
+URL:https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+Channel name:FIGHTBOX
+URL:https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+Channel name:Motorvision TV HD
+URL:http://rr.dens.tv/h/h09/index.m3u8
+Channel name:Stadium
+URL:https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
+Channel name:IMPACT! Wrestling
+URL:https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+Channel name:Hard Knocks
+URL:https://bit.ly/3LfNBUM
+Channel name:MMA TV
+URL:https://bit.ly/3eXziZe
+Channel name:FreeSports
+URL:https://tinyurl.com/TiviMe-FreeSports
+Channel name:Major League Soccer
+URL:http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+Channel name:Billiard TV
+URL:https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
+Channel name:World Billiards TV
+URL:https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8?ads.content_classification=7&ads.device_lmt=0&ads.device_type=web&ads.device_year=2019&ads.env=prod&ads.gdpr_consent=CPXuQIAPXuQIAADABBENCLCsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgyAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAigAogBQQAACDIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads.market=uk&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=15bdae09-93b6-4a7f-8900-6c50ab2b3c1d&ads.rtv_content_id=3694&ads.rtvid=271858&ads.streaming_id=462725b2-c58b-41a5-aaed-7a162796bb47&ads.user_type=visitor&ads.wurl_channel=967
+Channel name:XFC TV
+URL:https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-621670feab2095ca85353ad4.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=ngiGKoEb44-shV7k85SB
+Channel name:PFL MMA
+URL:http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6334a574605f140007e233c4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+Channel name:Pluto TV Sports
+URL:http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56340779a738201b4ccfeac9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+Channel name:PGA Tour
+URL:http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de94dacb394a300099fa22a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+Channel name:World Poker Tour
+URL:http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5616f9c0ada51f8004c4b091/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+Channel name:MAVTV
+URL:http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/611468532f5f180007fbbc9c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+Channel name:MLB
+URL:http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+Channel name:Update Playlist Terbaru
+URL:https://dl.dropboxusercontent.com/s/gkied0nmj8aa2gm/InShot_20221108_103948919.mp4?dl=0
+Channel name:Music TV
+URL:https://av-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
+Channel name:Now 70s
+URL:https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+Channel name:Now 80s
+URL:https://bit.ly/3S2ZXT7
+Channel name:Now 90s
+URL:https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+Channel name:MTV Movie Hits
+URL:https://bit.ly/3etlpS6
+Channel name:MTV RockZone
+URL:https://bit.ly/3RRSwO6
+Channel name:MTV Music
+URL:https://bit.ly/3RzzKey
+Channel name:MTV Biggest Pop
+URL:http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+Channel name:MTV Block Party
+URL:http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+Channel name:MTV Spankin' New
+URL:http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+Channel name:MTV
+URL:https://bit.ly/3HMG7qJ
+Channel name:MTV Love Music
+URL:https://bit.ly/3TXAifG
+Channel name:Yo! MTV
+URL:https://bit.ly/3d5VfVm
+Channel name:MTV Unplugged
+URL:https://bit.ly/3DczYE3
+Channel name:MTV 90s
+URL:http://85.17.17.249/mtv_rocks/index.m3u8
+Channel name:MTV Hits France (Not 24/7)
+URL:http://190.2.155.162:8080/mtvhit/mpegts
+Channel name:Nick Music
+URL:http://85.17.17.249/MTV_MUSIC/index.m3u8
+Channel name:CMT Music
+URL:http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+Channel name:4Music
+URL:https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
+Channel name:CMC
+URL:https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
+Channel name:Live Music Replay
+URL:https://bit.ly/3L4Brhm
+Channel name:Vevo '70s
+URL:https://bit.ly/3OkyHxq
+Channel name:Vevo '80s
+URL:https://bit.ly/3OhWrCj
+Channel name:Vevo '90s
+URL:https://bit.ly/3GS5WFz
+Channel name:Vevo '90s & '00s
+URL:https://tinyurl.com/TiviMe-Vevo90s00s
+Channel name:Vevo 2K
+URL:https://bit.ly/3NkcUoQ
+Channel name:Vevo Retro Rock
+URL:https://bit.ly/3GFqbpv
+Channel name:Vevo Pop
+URL:https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
+Channel name:Vevo R&B
+URL:https://bit.ly/3RPleyX
+Channel name:Vevo True School Hip-Hop
+URL:https://bit.ly/3AYTTDE
+Channel name:Vevo Reggaeton & Trap
+URL:https://bit.ly/3Ry03Si
+Channel name:Vevo Latino
+URL:https://bit.ly/3DdDrlO
+Channel name:Vevo Country
+URL:https://bit.ly/3BDpT1T
+Channel name:VH1 Classic
+URL:https://bit.ly/3PTpq0A
+Channel name:New KPop
+URL:https://tinyurl.com/TiviMe-NewKPop
+Channel name:Stingray Karaoke
+URL:https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
+Channel name:Stingray Rock Alternative
+URL:https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8
+Channel name:Stingray Classic Rock
+URL:https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayclassicrock/CDN/playlist.m3u8
+Channel name:The Edge
+URL:https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
+Channel name:Trace Urban
+URL:https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+Channel name:XITE
+URL:https://xite-samsung-de.amagi.tv/playlist.m3u8
+Channel name:XITE Hits
+URL:https://tinyurl.com/TiviMe-XiteHits
+Channel name:XITE 80s Flashback
+URL:https://tinyurl.com/XITE80s
+Channel name:XITE 90s Throwback
+URL:https://tinyurl.com/XITE90ss
+Channel name:XITE Rock On
+URL:https://tinyurl.com/XiteRock
+Channel name:XITE Just Chill
+URL:https://tinyurl.com/XiteJTCL
+Channel name:Stingray Flashback 70s
+URL:https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62f15810a3ffe928ef806c75.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=Xuew2uGdQ_xypyxEMpTm
+Channel name:Stingray Remember The '80s
+URL:https://stream.ads.ottera.tv/playlist.m3u8?network_id=1387&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=Xuew2uGdQ_xypyxEMpTm&custom_7=61aa9f50784a2161d3caf7fb&is_lat=0
+Channel name:Stingray Nothin' But 90s
+URL:https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62f13eeded056a1db9ef3d54.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=Xuew2uGdQ_xypyxEMpTm
+Channel name:Stingray  Greatest Hits
+URL:https://stream.ads.ottera.tv/playlist.m3u8?network_id=1385&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=Xuew2uGdQ_xypyxEMpTm&custom_7=61aa97d4113e1e5137fd5325&is_lat=0
+Channel name:Stingray Hit List
+URL:https://stream.ads.ottera.tv/playlist.m3u8?network_id=1388&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=Xuew2uGdQ_xypyxEMpTm&custom_7=61aaa014784a2161d3caf7fd&is_lat=0
+Channel name:Update Playlist Terbaru
+URL:https://dl.dropboxusercontent.com/s/gkied0nmj8aa2gm/InShot_20221108_103948919.mp4?dl=0
+Channel name:CJ ENM
+URL:https://tinyurl.com/TiviMe-CJENM
+Channel name:NEW KMOVIES
+URL:https://tinyurl.com/TiviMe-NewKMovies
+Channel name:MovieSphere (UK)
+URL:https://tinyurl.com/MovieSphere
+Channel name:MovieSphere (US)
+URL:https://bit.ly/3Re2MPY
+Channel name:The Walking Dead Universe
+URL:https://tinyurl.com/TheWDU
+Channel name:The Walking Dead Universe 2
+URL:https://bit.ly/3BPlHuw
+Channel name:AMC Thrillers
+URL:https://bit.ly/3DVMI2j
+Channel name:Stories by AMC
+URL:https://bit.ly/3SRLf1h
+Channel name:24 Hour Free Movies
+URL:https://bit.ly/3dHN7dQ
+Channel name:Galxy TV
+URL:https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-621672e42c2627c068e73ad8.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=ngiGKoEb44-shV7k85SB
+Channel name:IFC Films Picks
+URL:https://bit.ly/3LLOMf4
+Channel name:AsianCrush
+URL:https://bit.ly/3DVAp5P
+Channel name:Dark Matter TV
+URL:https://amg00434-tricoasttvllc-darkmatter-plex-a0u9r.amagi.tv/playlist/amg00434-tricoasttvllc-darkmatter-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=JoNYGj1bF5swTq531QQg&channelId=5eea605674085f0040ddc7a6&ads.us_privacy=1---&ads.did=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.X-Plex-Token=JoNYGj1bF5swTq531QQg&ads.channelId=5eea605674085f0040ddc7a6
+Channel name:Watch it SCREAM
+URL:https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-621671d05abdd3d5556a1baf.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=ngiGKoEb44-shV7k85SB
+Channel name:KBS Drama
+URL:http://ye23.vip/z7z8/2021/kbs2020.php?id=5
+Channel name:MyTime Movie Network
+URL:https://appletree-mytimeuk-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mytime-uk-rakuten/CDN/master.m3u8
+Channel name:Gravitas Movies
+URL:https://cba5182b39c145c2b96ecc5c3f72e41a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GravitasMovies/playlist.m3u8?ads.wurl_channel=154&ads.wurl_name=GravitasMovies&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=b9tDdN13sTu4tKHzb-xN&ads.plex_id=5efe1de7e0b3f5003f5d9f8e&ads.ua=okhttp/4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https://play.google.com/store/apps/details?id=com.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+Channel name:Hi-Yah
+URL:https://linear-59.frequency.stream/dist/localnow/59/hls/master/playlist.m3u8
+Channel name:Mutant X
+URL:https://linear-238.frequency.stream/dist/localnow/238/hls/master/playlist.m3u8
+Channel name:New Movies
+URL:https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=newmovies&channel_id=newid_013&apikey=b97c7a7d0c82424bb607e141ef215779&auth=ef4722f8-0f04540c-5195b5f1-d5b74e3a&ads.live=%5BCONTENT_LIVE%5D&ads.device_did=%7BPSID%7D&ads.ifa=%5BIFA%5D&ads.ifatype=%5BIFA_TYPE%5D&ads.lat=%5BLMT%5D&ads.donotsell=%5BDNS%5D&ads.ip=%5BIP%5D&ads.gdpr=%5BGDPR%5D&ads.gdprconsent=%5BGDPR_CONSENT%5D&ads.country=%5BCOUNTRY%5D&ads.us_privacy=%5BUS_PRIVACY%5D&ads.appstoreurl=%5BAPP_STOREURL%5D&ads.bundleid=%5BAPP_BUNDLE%5D&ads.app.name=%7BAPP_NAME%7D&ads.appversion=%5BAPP_VERSION%5D&ads.devicetype=%5BDEVICE_TYPE%5D&ads.devicemake=%5BDEVICE_MAKE%5D&ads.devicemodel=%5BDEVICE_MODEL%5D&ads.targetad=%5BTARGETAD_ALLOWED%5D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+Channel name:Update Playlist Terbaru
+URL:https://dl.dropboxusercontent.com/s/gkied0nmj8aa2gm/InShot_20221108_103948919.mp4?dl=0
+Channel name:Rakuten TV Action Movies
+URL:https://8f72400044c842498436abd352ba487b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_RakutenActionMovies/playlist.m3u8
+Channel name:Rakuten TV British Films
+URL:https://e1c61ff393ae4a4d93f1f12e3fdae43d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_Local/playlist.m3u8
+Channel name:Rakuten TV Comedy Movies
+URL:https://3b860eeb37fb4f4fa78a0848dd060893.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_RakutenComedyMovies/playlist.m3u8
+Channel name:Rakuten TV Drama Movies
+URL:https://db44ab650bce44a59112e74420f2af4e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_RakutenTVShows/playlist.m3u8
+Channel name:Rakuten TV Top Movies
+URL:https://16464fe910f94d65ab9b9255101d7fc7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_TopFree/playlist.m3u8
+Channel name:Rakuten TV Romance Movies
+URL:https://f5804858608b4fb7a9a831a7b2572a79.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-gb_RakutenRomance/playlist.m3u8
+Channel name:Rakuten TV Thrillers Movies
+URL:https://002933288fed459bbb7fe5e82562c3e2.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-gb_RakutenThriller/playlist.m3u8
+Channel name:Update Playlist Terbaru
+URL:https://dl.dropboxusercontent.com/s/gkied0nmj8aa2gm/InShot_20221108_103948919.mp4?dl=0
+Channel name:Pluto TV Action
+URL:https://bit.ly/39SoJ7h
+Channel name:Pluto TV Horror
+URL:https://bit.ly/3NjRho7
+Channel name:Flicks of Fury
+URL:https://bit.ly/3A0onWR
+Channel name:The Asylum
+URL:https://bit.ly/3zZ96pm
+Channel name:Pluto TV Comedy
+URL:https://bit.ly/3HPTypV
+Channel name:Pluto TV Romance
+URL:https://bit.ly/3OHnk2p
+Channel name:Pluto TV Thrillers
+URL:https://bit.ly/3bpnWvh
+Channel name:Pluto TV Drama
+URL:https://bit.ly/3tZ6cNr
+Channel name:Pluto TV Fantastic
+URL:https://bit.ly/3u1hD7A
+Channel name:Pluto TV Cult Films
+URL:https://bit.ly/3OGm0wr
+Channel name:Pluto TV Terror
+URL:https://bit.ly/3xOTa6o
+Channel name:Pluto TV Reaction
+URL:https://bit.ly/3eDoZJp
+Channel name:Pluto TV Staff Picks
+URL:https://bit.ly/3BHXCap
+Channel name:Pluto TV Crime Movies
+URL:https://bit.ly/3qAyqfs
+Channel name:Pluto TV Love Stories
+URL:http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f15e181520cfa000771ce79/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+Channel name:Pluto TV Suspense
+URL:http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f15e281b0b8840007324b55/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+Channel name:Pluto TV Sci-Fi
+URL:http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4fc274694c027be6ed3eea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+Channel name:70s Cinema
+URL:https://bit.ly/3QJvR5l
+Channel name:80s Rewind
+URL:https://bit.ly/3xnk85O
+Channel name:90s Throwback
+URL:https://bit.ly/3RLGaY7
+Channel name:OOs Replay
+URL:https://bit.ly/3dfll8q
+Channel name:Paramount Movie Channel
+URL:https://bit.ly/3QD0uKW
+Channel name:Paramount+ Picks
+URL:http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff8c708653d080007361b14/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+Channel name:TV Land Drama
+URL:https://bit.ly/3raaoII
+Channel name:Classic TV Drama
+URL:https://bit.ly/3BqFwZc
+Channel name:Hallmark Movies & More
+URL:http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/628e685ba3811100070551a8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+Channel name:SHOWTIME Select
+URL:http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f988934a507de00075d9ae7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+Channel name:Fuse Beat
+URL:http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6176fddda3a6160007f60433/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+Channel name:Serial TV Mission: Impossible
+URL:http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f77977bd924d80007eee60c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+Channel name:More TV Drama
+URL:http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/613260e4bdb71c00070d63fa/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+Channel name:Update Playlist Terbaru
+URL:https://dl.dropboxusercontent.com/s/gkied0nmj8aa2gm/InShot_20221108_103948919.mp4?dl=0
+Channel name:Always Funny Videos
+URL:https://tinyurl.com/AMFVSS
+Channel name:FailArmy
+URL:https://tinyurl.com/FailsArmys
+Channel name:Just For Laughs
+URL:https://bit.ly/3yhvTLT
+Channel name:Pimp My Ride
+URL:https://bit.ly/3Rr0nSE
+Channel name:Pranks
+URL:https://bit.ly/3RvBaXo
+Channel name:Fear Factor
+URL:https://bit.ly/3qoXZQA
+Channel name:Pluto TV Vs.
+URL:https://bit.ly/3d1NsYt
